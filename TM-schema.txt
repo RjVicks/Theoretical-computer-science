@@ -1,0 +1,6 @@
+n states
+followed by k lines of transitions
+(state q, symbol a) ==> (state q', symbol b, head_movement Z)
+e.g.
+
+(0, 0) ==> (0, 1, R)
